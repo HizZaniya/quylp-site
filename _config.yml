@@ -1,0 +1,5 @@
+title: Quylp
+description: 画像の束から電子書籍を作る Windows 向けのデスクトップアプリ
+lang: ja
+exclude:
+  - README.md
